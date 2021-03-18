@@ -12,5 +12,7 @@
 
   [Device Trees](https://github.com/henloscape/docs/blob/master/trees.md) | [Continuous Integration](https://github.com/henloscape/docs/blob/master/ci.md) | [ROM stuffs](https://github.com/henloscape/docs/blob/master/romstuff.md) | [Everything else](https://github.com/henloscape/docs/blob/master/misc.md) 
 
+- ### Contact me ### 
 
+  [Email](mailto:henloboii@protonmail.ch) | [Telegram](https://t.me/henloboi)
 
