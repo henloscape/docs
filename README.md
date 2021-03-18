@@ -2,7 +2,7 @@
 
 - ### What is this ? ###
 
-  This will be my new place to hold all my projects, my old one is too messy lol
+  This will be my new place to hold all my projects, my personal git is way to messy.
 
 - ### Will this be maintained? ###
 
@@ -10,7 +10,7 @@
 
 - ### Project index ### 
 
-  Device Trees | Android stuffs | Continuous Integration | ROM stuffs | Everything else 
+  [Device Trees](https://github.com/henloscape/docs/blob/master/trees.md) | [Continuous Integration](https://github.com/henloscape/docs/blob/master/ci.md) | [ROM stuffs](https://github.com/henloscape/docs/blob/master/romstuff.md) | [Everything else](https://github.com/henloscape/docs/blob/master/misc.md) 
 
 
 
