@@ -2,4 +2,4 @@
 
 - ### Building ###
 
-  [StatixOS for lancelot](https://github.com/henloscape/statix) | CipherOS Buildbot (soon)
+  [ArrowOS for lancelot](https://github.com/henloscape/arrow) | [crDroid Android miatoll](https://github.com/henloscape/crdroid) | CipherOS Buildbot (soon)
