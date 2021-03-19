@@ -1,5 +1,7 @@
 # henloscape documentation # 
 
+![banner](.github/banner.jpg)
+
 - ### What is this ? ###
 
   This will be my new place to hold all my projects, my personal git is way to messy.
